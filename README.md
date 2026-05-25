@@ -2,7 +2,7 @@
 
 # 😴 Sleep Disorder Prediction
 
-A supervised ML classification project that predicts sleep disorders- Insomnia, Sleep Apnea, or None from health and lifestyle features including age, BMI, stress level, sleep duration, and blood pressure, using Logistic Regression, Random Forest, and SVM.
+**A supervised ML classification project that predicts sleep disorders- Insomnia, Sleep Apnea or None from health and lifestyle features including age, BMI, stress level, sleep duration and blood pressure, using Logistic Regression, Random Forest and SVM.**
 
 <p align="center">
 
@@ -14,6 +14,8 @@ A supervised ML classification project that predicts sleep disorders- Insomnia, 
 <img src="https://img.shields.io/github/stars/MusaIslamFahad/sleep-disorder-prediction?style=for-the-badge&logo=github&label=GitHub%20Stars&color=0f172a" />
 
 </p>
+
+![Sleep Disorder Prediction Banner](https://raw.githubusercontent.com/MusaIslamFahad/sleep-disorder-prediction/main/assets/banner.png)
 
 </div>
 
